@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvimento de Sistemas. Tenho habilidades front-end, back-end e DevOps, sempre buscando entregar soluções de qualidad e eficientes. Veja meu portfólio e meu perfil com meus projetos!
+Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvimento de Sistemas. Tenho habilidades front-end, back-end e DevOps, sempre buscando entregar soluções de qualidade e eficientes. Veja meu portfólio e meu perfil com meus projetos!
 
 ---
 
