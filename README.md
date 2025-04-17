@@ -22,8 +22,8 @@ Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvime
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCosta2JZ&layout=compact&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioCosta2JZ&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCosta2JZ&layout=compact&theme=dracula)
 
 ---
 
