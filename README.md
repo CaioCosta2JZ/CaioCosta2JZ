@@ -8,7 +8,7 @@ Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvime
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,windows,linux,kali,react,python,mysql,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,ts,windows,linux,kali,react,python,mysql,photoshop)](https://skillicons.dev)
 
 ---
 
