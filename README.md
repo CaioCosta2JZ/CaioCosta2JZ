@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvimento de Sistemas. Tenho habilidades front-end, back-end e DevOps, sempre buscando entregar soluções de qualidade e eficientes. Veja meu portfólio e meu perfil com meus projetos!
+Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvimento de Sistemas, com várias habilidades em Cibersegurança. Tenho habilidades front-end, back-end, em QA e tecnologias relaciondas a segurança. Sempre busco entregar soluções de qualidade e eficientes. Veja meu portfólio e meu perfil com meus projetos!
 
 ---
 
