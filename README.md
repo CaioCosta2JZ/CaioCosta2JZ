@@ -16,7 +16,7 @@ Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvime
 
 - 📧 Email: [ca1o.stievo@email.com]
 - 💼 LinkedIn: [www.linkedin.com/in/caio-costa2jz]
-<!-- / - 🌐 Portfólio: [seusite.com.br](https://seusite.com.br) *(se tiver)* -->
+- 🌐 Portfólio: [https://caio-costa-portfolio.vercel.app/]
 
 ---
 
