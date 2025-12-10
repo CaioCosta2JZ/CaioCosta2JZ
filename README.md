@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvimento de Sistemas, com várias habilidades em Cibersegurança. Tenho habilidades front-end, back-end, em QA e tecnologias relaciondas a segurança. Sempre busco entregar soluções de qualidade e eficientes. Veja meu portfólio e meu perfil com meus projetos!
+Tech professional focused on high-performance execution and continuous improvement.
 
 ---
 
@@ -26,5 +26,3 @@ Sou um desenvolvedor Full-Stack cursando uma formação técnica em Desenvolvime
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCosta2JZ&layout=compact&theme=dracula)
 
 ---
-
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
