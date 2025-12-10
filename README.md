@@ -1,18 +1,18 @@
-<h1 align="center">Olá, meu nome é Caio Costa!</h1>
+<h1 align="center">Caio Costa</h1>
 
-## Sobre mim
+## About me
 
 Tech professional focused on high-performance execution and continuous improvement.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies and tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,ts,windows,linux,kali,react,python,mysql,photoshop)](https://skillicons.dev)
 
 ---
 
-## 📫 Contato
+## 📫 Contact me
 
 - 📧 Email: [ca1o.stievo@email.com]
 - 💼 LinkedIn: [www.linkedin.com/in/caio-costa2jz]
